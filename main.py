@@ -6,6 +6,8 @@
 # Si acierta que avise de la victoria
 # Si llega a los 8 intentos pierde 
 
+#comentario de cambio
+
 contador_intentos = 0
 codigo_secreto = []
 
